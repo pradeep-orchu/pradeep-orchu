@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Data science**
 
 - 👯 I’m looking to collaborate on [Photoscent](https://github.com/pradeep-orchu/photoscent.git)
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://pradeep-orchu.web.app/)
 
 - 📫 How to reach me **pradeepkrishna748@gmail.com**
 
